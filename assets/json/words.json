@@ -1,0 +1,29 @@
+{
+    "nouns": [
+      "apple", "book", "chair", "desk", "phone", "window", "light", "pen", "table", "house",
+      "tree", "cloud", "road", "water", "coffee", "street", "music", "car", "key", "time",
+      "night", "day", "shirt", "shoe", "clock", "star", "watch", "bird", "cat", "dog", "ball",
+      "game", "food", "drink", "party", "team", "work", "peace", "love", "friend", "family",
+      "job", "school", "study", "class", "desk", "teacher", "student", "mountain", "ocean", "river",
+      "forest", "sky", "sun", "moon", "planet", "computer", "television", "camera", "bottle", "cup",
+      "lamp", "blanket", "keychain", "glove", "shoe", "sand", "earth", "soda", "dream", "idea", "i",
+      "you", "he", "she", "it", "we", "they", "me", "him", "her", "us", "them", "my", "your"
+    ],
+    "adjectives": [
+      "happy", "sad", "bright", "dark", "big", "small", "fast", "slow", "good", "bad",
+      "beautiful", "ugly", "clean", "dirty", "soft", "hard", "loud", "quiet", "long", "short",
+      "young", "old", "easy", "difficult", "new", "old", "warm", "cold", "rich", "poor",
+      "strong", "weak", "funny", "serious", "angry", "excited", "fearful", "nervous", "brave",
+      "sleepy", "cheerful", "peaceful", "shiny", "wet", "dry", "thin", "thick", "sweet", "sour",
+      "salty", "spicy", "smooth", "rough", "fuzzy", "delicate", "harsh", "friendly", "shy"
+    ],
+    "verbs": [
+      "run", "jump", "eat", "sleep", "read", "write", "talk", "listen", "play", "work",
+      "study", "sing", "dance", "speak", "think", "build", "make", "watch", "call", "help",
+      "clean", "drive", "walk", "draw", "cook", "learn", "teach", "open", "close", "sit", "stand",
+      "throw", "catch", "push", "pull", "laugh", "cry", "love", "hate", "kiss", "hug", "embrace",
+      "attack", "defend", "buy", "sell", "share", "organize", "decorate", "create", "discover",
+      "explore", "sing", "jump", "climb", "swim", "ski", "fly", "cook", "bake", "build", "help",
+      "question", "agree", "disagree", "investigate", "lead", "follow", "succeed", "fail"
+    ]
+  }
